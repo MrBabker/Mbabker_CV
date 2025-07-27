@@ -180,6 +180,10 @@ export default function Home() {
             </h2>
             <ul className="list-disc pl-5 text-gray-700 space-y-1">
               <li>Strong computer and device handling</li>
+              <li>3D Modeling using Blender 3D</li>
+              <li>Game development using Unity (Mobile, PC)</li>
+              <li>Programming Languages: C/C++, C# (Unity)</li>
+              <li>Online game development using Unity (NetCode, Photon)</li>
               <li>Self-learning and quick learning</li>
               <li>Project analysis and planning</li>
               <li>Object-Oriented Programming (OOP)</li>
@@ -187,10 +191,6 @@ export default function Home() {
               <li>UI/UX design and UML diagrams</li>
               <li>Software Development Life Cycle (SDLC)</li>
               <li>Microsoft Office: Excel, PowerPoint, Word</li>
-              <li>3D Modeling using Blender 3D</li>
-              <li>Game development using Unity (Mobile, PC)</li>
-              <li>Online game development using Unity (NetCode, Photon)</li>
-              <li>Programming Languages: C/C++, HTML, CSS, Java, C# (Unity)</li>
             </ul>
           </div>
 
