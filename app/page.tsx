@@ -23,9 +23,7 @@ export default function Home() {
               <h1 className="text-2xl font-bold text-blue-800 sticky top-0 bg-white z-500">
                 Mohammed Babiker Alamin Alsunni
               </h1>
-              <p className="font-semibold mt-1 text-gray-400">
-                Software Engineer
-              </p>
+              <p className="font-semibold mt-1 text-gray-400">Game Developer</p>
               <p className="text-sm mt-2 text-gray-400">
                 Email: smilemedo@outlook.com
               </p>
