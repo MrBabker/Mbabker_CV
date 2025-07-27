@@ -106,7 +106,7 @@ export default function Home() {
               </li>
               <div>
                 <span className="text-amber-600">
-                  See my individual works here :
+                  Kindly find below the links to my individual works :
                 </span>
                 <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 place-items-center">
                   <Link href="https://mbabker.itch.io/fighters">
